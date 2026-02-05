@@ -10,6 +10,7 @@
 
 ### 設定
 
+- settings/place.yml: 場所設定
 
 ### etc.
 
