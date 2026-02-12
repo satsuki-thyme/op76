@@ -23,3 +23,4 @@
 ### 思考ノート
 
 - thinking-notes/thi-001.md: どんな内容にするか
+- thinking-notes/thi-002.md: 水は何を穿つか
