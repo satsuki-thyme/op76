@@ -1,0 +1,233 @@
+# キャラクター
+
+summary:
+  イクス
+  フェム
+
+details:
+
+  - group: 主人公
+    member:
+
+      - dn: イクス
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
+  - group: エルフ
+    member:
+
+      - dn: フェム
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
+  - group: 
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
