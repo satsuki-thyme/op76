@@ -9,15 +9,18 @@
 - text/01/tex-001.txt: 言われたとおりになったよ
 - text/01/tex-002.txt: 自ら巻き込まれていく体質
 - text/01/tex-003.txt: 黒幕は闇属性の人なのかも
+- text/01/tex-004.txt: タイトル未定
 
 ### 設定
 
-- settings/place.yml: 場所設定
+- settings/characters-mob.yml: モブキャラクター
+- settings/characters.yml:     キャラクター
+- settings/place.yml:          場所
 
 ### etc.
 
 - etc/log.yml:       ログ
-- etc/management.md: 作業管理
+- etc/MGMT.md:       作業管理
 - etc/title-idea.md: タイトル案
 - etc/tmp.txt:       一時ファイル
 
