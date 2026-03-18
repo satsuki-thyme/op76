@@ -1,8 +1,37 @@
 # モブキャラクター
 
-- dn: レドロ
+
+- dn: 
   contents:
-    蜥蜴人
+    !
+
+
+- dn: 
+  contents:
+    !
+
+
+- dn: 
+  contents:
+    !
+
+
+- dn: 
+  contents:
+    !
+
+
+- dn: テナメネ
+  contents:
+    ダークエルフ
+    リケルムと双子の妹
+
+
+- dn: リケルム
+  contents:
+    ダークエルフ
+    テナメネと双子の姉
+
 
 - dn: ザインガルフ
   contents:
@@ -10,19 +39,19 @@
     ザインガルフ様
     伯爵
 
-- dn: 
-  contents:
-    !
 
-- dn: 
+- dn: レドロ
   contents:
-    !
+    蜥蜴人
 
-- dn: 
-  contents:
-    !
 
-- dn: 
+- dn: ドルト
   contents:
-    !
+    ガフィーの祖父
+
+
+- dn: ガフィー
+  contents:
+    アウトウィップの領主
+
 
