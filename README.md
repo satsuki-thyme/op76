@@ -11,6 +11,10 @@
 - text/01/tex-003.txt: 黒幕は闇属性の人なのかも
 - text/01/tex-004.txt: タイトル未定
 
+#### プロット
+
+- plot/01/chapter/log.yml: ログ
+
 ### 設定
 
 - settings/characters-mob.yml: モブキャラクター
@@ -19,7 +23,6 @@
 
 ### etc.
 
-- etc/log.yml:       ログ
 - etc/MGMT.md:       作業管理
 - etc/title-idea.md: タイトル案
 - etc/tmp.txt:       一時ファイル
