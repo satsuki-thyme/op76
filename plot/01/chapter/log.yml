@@ -20,10 +20,10 @@
   erros: 
   summary: 
 
-- episode: 1
-  case: 
+- episode: 5
+  case: 2(4/)
   title: 
-  elapsed days: 
+  elapsed days: 5
   location: 
   time: 
   contact: 
@@ -34,4 +34,64 @@
   battle: 
   erros: 
   summary: 
+
+- episode: 4
+  case: 2(3/)
+  title: エルフの少女騎士が大活躍
+  elapsed days: 5
+  location: センテローネ / ザインガルフの館
+  time: 昼下がり
+  contact: ザインガルフ, リケルム, テナメネ, ホロシーヴァ
+  first contact: ホロシーヴァ
+  first appearance: ホロシーヴァ
+  companion: フェム, ホロシーヴァ
+  monster: なし
+  battle: true
+  erros: false
+  summary: 闇森人の二人を倒したフェムはザインガルフから「高貴な方」の居場所を聞き出す。イクスは巨鳥ホロシーヴァを召喚し、二人は競売場へ向けて飛び立った。
+
+- episode: 3
+  case: 2(2/)
+  title: 黒幕は闇属性の人なのかも
+  elapsed days: 5
+  location: センテローネ / ザインガルフの館
+  time: 昼下がり
+  contact: レドロ, ザインガルフ, リケルム, テナメネ
+  first contact: レドロ, ザインガルフ, リケルム, テナメネ
+  first appearance: レドロ, ザインガルフ, リケルム, テナメネ
+  companion: フェム
+  monster: なし
+  battle: true
+  erros: false
+  summary: 罠にはまりレドロと戦闘になったフェムが傷を負うが、イクスが敵を倒し魔法で回復させる。二人は結界を破り壁を突破、当主の部屋に乗り込むと闇森人の双子が待ち受けていた。
+
+- episode: 2
+  case: 2(1/)
+  title: 自ら巻き込まれていく体質
+  elapsed days: 5
+  location: センテローネ / ザインガルフの館
+  time: 昼下がり
+  contact: フェム
+  first contact: フェム
+  first appearance: フェム
+  companion: フェム
+  monster: なし
+  battle: false
+  erros: false
+  summary: 捕らわれた地下室で森人の少女フェムと出会ったイクスは、拘束を魔法で解き黒幕打倒に向けて共闘。城内を進むが、反精霊の結界に阻まれ罠にはまる。
+
+- episode: 1
+  case: 1
+  title: 言われたとおりになったよ
+  elapsed days: 0-5
+  location: アウトウィップ, センテローネ
+  time: omit
+  contact: ガフィー
+  first contact: ガフィー
+  first appearance: ガフィー
+  companion: なし
+  monster: なし
+  battle: false
+  erros: false
+  summary: 長命の魔法使いイクスが長年住んだ街を離れ、自身の出自を求めて放浪の旅に出る。初めての街センテローネで、人攫いに捕まってしまう。
 
