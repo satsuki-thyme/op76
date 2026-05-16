@@ -23,6 +23,7 @@
 ###### エピソード
 
 - plot/01/episode/eBu-005.md: 構築 第1章 第5話
+- plot/01/episode/eBu-006.md: 構築 第1章 第6話
 
 ### 設定
 
