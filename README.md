@@ -18,7 +18,8 @@
 
 ###### 章
 
-- plot/01/chapter/log.yml: ログ
+- plot/01/chapter/log.yml:       ログ
+- plot/01/chapter/precursor.yml: 前駆体
 
 ###### エピソード
 
