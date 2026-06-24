@@ -22,7 +22,7 @@
 
 ###### 章
 
-- plot/01/chapter/log.yml:       ログ
+- plot/01/chapter/log.yml: ..... ログ
 - plot/01/chapter/precursor.yml: 前駆体
 
 ###### エピソード
@@ -33,12 +33,12 @@
 ### 設定
 
 - settings/characters-mob.yml: モブキャラクター
-- settings/characters.yml:     キャラクター
-- settings/place.yml:          場所
+- settings/characters.yml: ... キャラクター
+- settings/place.yml: ........ 場所
 
-### etc.
+### ルート・フォルダ
 
-- etc/MGMT.md:       作業管理
+- MGMT.md: 管理
 
 ### 思考ノート
 
