@@ -1,0 +1,16 @@
+{
+  "description": {
+    "normal": "未定",
+    "x":      "未定"
+  },
+  "additional": {
+    "header": {
+      "normal": "",
+      "x":      ""
+    },
+    "footer": {
+      "normal": "",
+      "x":      ""
+    }
+  }
+}
