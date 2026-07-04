@@ -40,7 +40,7 @@
 
 - MGMT.md: 管理
 
-### 思考ノート
+### アイデアノート
 
 - idea-notes/ide-001.md: どんな内容にするか
 - idea-notes/ide-002.md: 水は何を穿つか
