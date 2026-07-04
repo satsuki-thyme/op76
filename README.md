@@ -42,7 +42,7 @@
 
 ### 思考ノート
 
-- thinking-notes/thi-001.md: どんな内容にするか
-- thinking-notes/thi-002.md: 水は何を穿つか
-- thinking-notes/thi-003.md: どうやって瞬殺するか
-- thinking-notes/thi-004.md: 反精霊の結界をどうやって破るか
+- idea-notes/ide-001.md: どんな内容にするか
+- idea-notes/ide-002.md: 水は何を穿つか
+- idea-notes/ide-003.md: どうやって瞬殺するか
+- idea-notes/ide-004.md: 反精霊の結界をどうやって破るか
