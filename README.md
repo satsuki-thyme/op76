@@ -11,6 +11,7 @@
 - text/01/tex-003.txt: 黒幕は闇属性の人なのかも
 - text/01/tex-004.txt: エルフの少女騎士が大活躍
 - text/01/tex-005.txt: 僕もちょっとだけやったよ
+- text/01/tex-006.txt: タイトル未定
 
 #### プロット
 
@@ -34,7 +35,7 @@
 
 - settings/characters-mob.yml: モブキャラクター
 - settings/characters.yml: ... キャラクター
-- settings/place.yml: ........ 場所
+- settings/location.yml: ..... 場所
 
 ### ルート・フォルダ
 

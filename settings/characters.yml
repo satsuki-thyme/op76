@@ -21,7 +21,9 @@ details:
           gender: 
           age: 
           birthplace: 
+          relationship: 
         current status:
+          title: 
           address: 
           affiliation: 
         approximate nature:
@@ -74,11 +76,125 @@ details:
           self awareness: 
           full name: 
           nickname: 
-          race: 
-          gender: 
-          age: 
+          race: エルフ
+          gender: 女
+          age: 19
           birthplace: 
+          relationship: アイシャの姉
         current status:
+          title: 騎士
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
+      - dn: アイシャ
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: エルフ
+          gender: 女
+          age: 17
+          birthplace: 
+          relationship: フェムの妹
+        current status:
+          title: 騎士
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            !
+          special skills:
+            !
+          forte:
+            !
+          weaknesses:
+            !
+          secret:
+            !
+          hobby:
+            !
+          etc:
+            !
+        personality:
+          overview:
+            !
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+
+      - dn: ティエルフィーア
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: エルフ
+          gender: 女
+          age: 21
+          birthplace: 
+          relationship: 
+        current status:
+          title: 王女
           address: 
           affiliation: 
         approximate nature:
@@ -132,7 +248,9 @@ details:
           gender: 
           age: 
           birthplace: 
+          relationship: 
         current status:
+          title: 
           address: 
           affiliation: 
         approximate nature:
@@ -189,7 +307,9 @@ details:
           gender: 
           age: 
           birthplace: 
+          relationship: 
         current status:
+          title: 
           address: 
           affiliation: 
         approximate nature:
