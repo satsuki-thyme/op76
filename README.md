@@ -19,8 +19,6 @@
 
 - plot/00/title-idea.md: タイトル案
 
-##### 第1章
-
 ###### 章
 
 - plot/01/chapter/log.yml:       ログ
@@ -36,10 +34,6 @@
 - settings/characters-mob.yml: モブキャラクター
 - settings/characters.yml:     キャラクター
 - settings/location.yml:       場所
-
-### ルート・フォルダ
-
-- MGMT.md: 管理
 
 ### アイデアノート
 
