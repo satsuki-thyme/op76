@@ -19,12 +19,12 @@
 
 - plot/00/title-idea.md: タイトル案
 
-###### 章
+##### 章
 
 - plot/01/chapter/log.yml:       ログ
 - plot/01/chapter/precursor.yml: 前駆体
 
-###### エピソード
+##### エピソード
 
 - plot/01/episode/eBu-005.md: 構築 第1章 第5話
 - plot/01/episode/eBu-006.md: 構築 第1章 第6話
