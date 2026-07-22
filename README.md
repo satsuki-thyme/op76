@@ -23,6 +23,7 @@
 
 - plot/01/chapter/log.yml:       ログ
 - plot/01/chapter/precursor.yml: 前駆体
+- plot/01/chapter/reference.yml: リファレンス
 
 ##### エピソード
 
@@ -33,7 +34,6 @@
 
 - settings/characters-mob.yml: モブキャラクター
 - settings/characters.yml:     キャラクター
-- settings/location.yml:       場所
 
 ### アイデアノート
 
