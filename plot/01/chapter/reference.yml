@@ -1,0 +1,34 @@
+# 場所設定
+
+
+- item: ref00()
+  applicable chapter: 
+  description:
+    ^
+
+
+- item: ref004(エールラクリル王国)
+  applicable chapter: 1
+  description:
+    フェム、アイシャ、ティルフィーア王女の所属するエルフの国
+
+
+- item: ref003(テリサロ)
+  applicable chapter: 1
+  description:
+    ref002(センテローネ)の西、馬を乗り継いで走らせて一日の距離
+    北の森の秘密の競売場がある
+
+
+- item: ref002(センテローネ)
+  applicable chapter: 1
+  description:
+    ref001(アウトウィップ)から森を五日歩いたところにあった街
+
+
+- item: ref001(アウトウィップ)
+  applicable chapter: 1
+  description:
+    物語開始まで主人公が暮らしていた街
+
+
